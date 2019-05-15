@@ -1,0 +1,3 @@
+Este archivo es el leeme.txt
+El proyecto actual es para cumplir objetivos estrictamente educativos,
+no espero producir nada util actualmente.
